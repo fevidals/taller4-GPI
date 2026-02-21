@@ -1,3 +1,6 @@
+
 # Sección de visualización
-color_grafico = "ROJO"
-print(f"Generando gráfico con el color: {color_grafico}")
+
+print("Código modificado en la rama VISUALIZACION")
+
+
