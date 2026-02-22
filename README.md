@@ -3,7 +3,7 @@
 
 **Curso:** Gestión de Proyectos de Investigación y Ciencia Abierta  
 **Institución:** Universidad de los Andes  
-**Autor:** Fabián  
+**Autor:** Fabián Vidal
 
 ## Descripción del Proyecto
 Este repositorio contiene la práctica individual correspondiente al Taller 4. El objetivo principal es aplicar herramientas de gestión de proyectos para la investigación reproducible, practicar la colaboración y el control de versiones mediante Git y GitHub, y documentar flujos de trabajo computacionales.
